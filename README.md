@@ -152,13 +152,4 @@ The generated sample dataset is realistic but synthetic. In a typical run, you m
 
 These insights are what you would explain in a Product Analyst interview when presenting SQL output to stakeholders.
 
-## Why this is a strong portfolio project
 
-This project is beginner-friendly because it keeps the logic transparent and easy to explain. It also mirrors real analytics work:
-
-- data modeling with relational tables
-- business KPI calculation
-- product insights from customer and order data
-- use of window functions for trend and ranking analysis
-
-It is the kind of SQL project you can confidently discuss in an interview, especially if asked to explain how you used SQL to answer business questions.
