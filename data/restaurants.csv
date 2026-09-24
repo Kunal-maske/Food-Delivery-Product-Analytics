@@ -1,0 +1,51 @@
+id,name,city,cuisine,avg_delivery_time_mins,is_active
+1,Brooklyn Bites,New York,Indian,34,true
+2,Upper East Eats,New York,Chinese,42,true
+3,Manhattan Masti,New York,Burgers,30,true
+4,Hudson Grill,New York,Mexican,23,true
+5,Empire Noodles,New York,Mediterranean,19,false
+6,Windy City Wraps,Chicago,Chinese,39,true
+7,Loop Pizzeria,Chicago,Mediterranean,37,true
+8,Lakefront Kitchen,Chicago,Mediterranean,25,true
+9,Café Northside,Chicago,American,33,true
+10,Deep Dish District,Chicago,Chinese,39,false
+11,Beacon Bowls,Boston,Mediterranean,42,true
+12,North End Naan,Boston,Thai,34,false
+13,Harbor Kebabs,Boston,Mexican,24,true
+14,Copley Cravings,Boston,American,19,false
+15,Boston Bistro,Boston,Chinese,35,true
+16,Pike Place Grill,Seattle,Vietnamese,21,true
+17,Rain City Ramen,Seattle,Indian,42,true
+18,Space Needle Sushi,Seattle,American,32,true
+19,Mariner Meals,Seattle,Thai,20,true
+20,Market Street Tacos,Seattle,Mediterranean,29,true
+21,South Congress Pizza,Austin,Thai,19,false
+22,Live Oak Tacos,Austin,Vietnamese,29,true
+23,Hill Country Grill,Austin,Thai,20,true
+24,Luna Burritos,Austin,Japanese,18,true
+25,Texas Table,Austin,Indian,40,true
+26,Ocean View Cuban,Miami,Mexican,22,true
+27,Little Havana Fresh,Miami,American,33,true
+28,Sunset Sushi,Miami,Mediterranean,32,true
+29,Bayside Burgers,Miami,Indian,18,true
+30,Coral Kitchen,Miami,Japanese,22,false
+31,Bayview Bites,San Francisco,Indian,42,true
+32,Golden Gate Grill,San Francisco,Japanese,27,true
+33,Mission Miso,San Francisco,Italian,25,false
+34,Cable Car Curry,San Francisco,Burgers,32,true
+35,Sourdough Social,San Francisco,Indian,33,true
+36,Rocky Mountain BBQ,Denver,Vietnamese,36,true
+37,Peak Peri Peri,Denver,Mexican,27,false
+38,Union Station Wok,Denver,Italian,37,true
+39,Highland Harvest,Denver,Japanese,36,false
+40,Summit Sandwiches,Denver,Mexican,39,true
+41,Peachtree Pizza,Atlanta,Vietnamese,29,true
+42,Midtown Momo,Atlanta,Vietnamese,35,true
+43,Skyline Samosa,Atlanta,Thai,33,true
+44,Beltline Burgers,Atlanta,Thai,29,true
+45,Southern Spice,Atlanta,Italian,29,true
+46,Sunset Sushi Club,Los Angeles,Chinese,25,true
+47,Westside Waffles,Los Angeles,Burgers,41,true
+48,Pacific Pasta,Los Angeles,Mexican,19,true
+49,Melrose Grill,Los Angeles,Vietnamese,28,true
+50,Angeleno Tacos,Los Angeles,Mediterranean,40,false
